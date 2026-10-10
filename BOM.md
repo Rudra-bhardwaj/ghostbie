@@ -13,12 +13,11 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [Seeed Studio XIAO ESP32C6](https://robu.in/product/seeed-studio-xiao-esp32c6/?gad_source=1&gad_campaignid=17413441824&gbraid=0AAAAADvLFWcW6Z3ogSbDkcdwRhArOs8iB&gclid=CjwKCAjwoaLWBhAWEiwAnyitu_p5jkWq0RRmCP2oDPBrxjWlKhwpwpnSDRYJggo8QpoLt8-3ekTdtBoCCB4QAvD_BwE) | the microcontroller to make the project work | 1 | $10.14 | $10.14 | [robu.in](https://robu.in/product/seeed-studio-xiao-esp32c6/?gad_source=1&gad_campaignid=17413441824&gbraid=0AAAAADvLFWcW6Z3ogSbDkcdwRhArOs8iB&gclid=CjwKCAjwoaLWBhAWEiwAnyitu_p5jkWq0RRmCP2oDPBrxjWlKhwpwpnSDRYJggo8QpoLt8-3ekTdtBoCCB4QAvD_BwE) |
-| [0.96 OLED](https://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-white/) | The screen so it can show the lil sprite | 1 | $2.26 | $2.26 | [robu.in](https://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-white/) |
 | [DHT11 Humidity & Temperature Sensor](https://makerbazar.in/products/humidity-sensor-module-dht-11?variant=48251190051056&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4VdQhleWwFuFNsyZsFrNLV6gXyoltEhaHzFuYq3c34C868hp-5g9DM) | to sense temperature and humiditiy! | 1 | $0.61 | $0.61 | [makerbazar.in](https://makerbazar.in/products/humidity-sensor-module-dht-11?variant=48251190051056&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4VdQhleWwFuFNsyZsFrNLV6gXyoltEhaHzFuYq3c34C868hp-5g9DM) |
 | [Keyboard Switches](https://www.amazon.com//dp/B0FQP8VYX4) | to interact with the screen | 1 | $8.49 | $8.49 | [amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
 | [pcb](https://cart.jlcpcb.com/shopcart/cart/?_t=1791622860716&spm=cart.2001&up_spm=Jlcpcb.Loginpage.1003) | the mainboard so everything works! | 1 | $11.75 | $11.75 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart/?_t=1791622860716&spm=cart.2001&up_spm=Jlcpcb.Loginpage.1003) |
-| **Parts subtotal** | — | — | — | **$33.25** | — |
+| **Parts subtotal** | — | — | — | **$30.99** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$33.25** | — |
+| **Total** | — | — | — | **$30.99** | — |
 
-**$3.25 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$0.99 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
