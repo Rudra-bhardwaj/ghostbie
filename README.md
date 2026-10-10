@@ -16,3 +16,4 @@ my pcb
 my firmware
 librarys
 
+<img width="512" height="390" alt="Screenshot 2026-10-09 224230" src="https://github.com/user-attachments/assets/1a41024b-d7ab-4b76-b889-eafe30713b88" />
