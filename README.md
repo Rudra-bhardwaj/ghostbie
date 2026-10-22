@@ -17,6 +17,7 @@ my firmware
 librarys
 
 <img width="512" height="390" alt="Screenshot 2026-10-09 224230" src="https://github.com/user-attachments/assets/1a41024b-d7ab-4b76-b889-eafe30713b88" />
+
 ## Bill of Materials (BOM)
 
 | Item | Quantity | Cost (each) | Link |
@@ -31,4 +32,22 @@ librarys
 | Custom PCB | 1 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | Total per kit | 1 | $24.95 | — |
 
+
+##Images of the project
+<img width="679" height="416" alt="image" src="https://github.com/user-attachments/assets/a87d15df-0cba-4445-b3c7-d6244fdbcc9c" />
+
+<img width="802" height="433" alt="image" src="https://github.com/user-attachments/assets/54a63f5f-236c-452d-aafa-a4e49a6c4889" />
+
+<img width="956" height="514" alt="image" src="https://github.com/user-attachments/assets/97ba4791-8b9c-40f3-9b29-57d74edd2a54" />
+
+## my honest guide and tips if you wanna build this too!
+
+1) use the given pcb files if you wanna order
+2) to build it just solder the componets as my guide images
+3) if you wanna make it yours in a way I recommend changing the shape of the pcb however you like.
+4) and to write the firmware i recommend using arduino IDE but i use vs code with add on
+5) to make it work use the given code and your all set!(i recommend personaling the the code to make it yours
+6) GOOD LUCK!
+   
+8) if 
 
