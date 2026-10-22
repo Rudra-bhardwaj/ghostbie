@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-10T09:13:49.520Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuv2hq7a0crj01smlqizrfrp). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
 
