@@ -1,6 +1,6 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Seeed Studio XIAO ESP32C3,1,robocraze,$6.80,$6.80,https://robocraze.com/
-Keyboard Switches,1,amazon,$8.49,$8.49,https://www.amazon.com//dp/B0FQP8VYX4
+2 pin switches,1,amazon,$1.59,$1.59,https://www.amazon.in/dp/B0D1CJNGLF?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_0
 pcb,1,Robu.in,$10.07,$10.07,robu.in
 OLED,1,robu.in,$3.10,$3.10,robu.in
 Estimated total shipping,1,,,$0.00,
