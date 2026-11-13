@@ -1,6 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Seeed Studio XIAO ESP32C3,1,robocraze,$6.80,$6.80,https://robocraze.com/
-DHT11 Humidity & Temperature Sensor,1,makerbazar.in,$0.61,$0.61,https://makerbazar.in/products/humidity-sensor-module-dht-11?variant=48251190051056&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4VdQhleWwFuFNsyZsFrNLV6gXyoltEhaHzFuYq3c34C868hp-5g9DM
 Keyboard Switches,1,amazon,$8.49,$8.49,https://www.amazon.com//dp/B0FQP8VYX4
 pcb,1,Robu.in,$10.07,$10.07,robu.in
 OLED,1,robu.in,$3.10,$3.10,robu.in
